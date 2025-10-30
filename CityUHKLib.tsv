@@ -1,0 +1,128 @@
+#metadataBlock	name	dataverseAlias	displayName												
+	CityUHK		CityUHK Metadata												
+#datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id
+	AffiliatedDept	Affiliated Department(s)	Choose the affiliated department(s) for the datasets		text	0		TRUE	TRUE	TRUE	TRUE	FALSE	TRUE		CityUHK
+	RGCFunded	RGC-Funded Project	Indicate whether the datasets are from a RGC Funded Project		text	1		TRUE	TRUE	FALSE	TRUE	FALSE	TRUE		CityUHK
+	DMPDOI	DOI of the associated DMP 	"The DOI of the Data Management Plan, which the datasets are assoicated with"		text	2		TRUE	FALSE	FALSE	TRUE	TRUE	FALSE		CityUHK
+#controlledVocabulary	DatasetField	Value	identifier	displayOrder											
+	RGCFunded	Yes		0											
+	RGCFunded	No		1											
+	AffiliatedDept	College of Biomedicine		0											
+	AffiliatedDept	College of Business		1											
+	AffiliatedDept	College of Computing		2											
+	AffiliatedDept	College of Engineering		3											
+	AffiliatedDept	College of Liberal Arts and Social Sciences		4											
+	AffiliatedDept	College of Science		5											
+	AffiliatedDept	Jockey Club College of Veterinary Medicine and Life Sciences		6											
+	AffiliatedDept	Chow Yei Ching School of Graduate Studies		7											
+	AffiliatedDept	School of Continuing and Professional Education		8											
+	AffiliatedDept	School of Creative Media		9											
+	AffiliatedDept	School of Energy and Environment		10											
+	AffiliatedDept	School of Law		11											
+	AffiliatedDept	Department of Accountancy		12											
+	AffiliatedDept	Department of Architecture and Civil Engineering		13											
+	AffiliatedDept	Department of Biomedical Engineering		14											
+	AffiliatedDept	Department of Biomedical Sciences		15											
+	AffiliatedDept	Department of Biostatistics		16											
+	AffiliatedDept	Department of Chemistry		17											
+	AffiliatedDept	Department of Chinese and History		18											
+	AffiliatedDept	Department of Computer Science		19											
+	AffiliatedDept	Department of Data Science		20											
+	AffiliatedDept	Department of Economics and Finance		21											
+	AffiliatedDept	Department of Electrical Engineering		22											
+	AffiliatedDept	Department of English		23											
+	AffiliatedDept	Department of Infectious Diseases and Public Health		24											
+	AffiliatedDept	Department of Information Systems		25											
+	AffiliatedDept	Department of Linguistics and Translation		26											
+	AffiliatedDept	Department of Management		27											
+	AffiliatedDept	Department of Management Sciences		28											
+	AffiliatedDept	Department of Marketing		29											
+	AffiliatedDept	Department of Materials Science and Engineering		30											
+	AffiliatedDept	Department of Mathematics		31											
+	AffiliatedDept	Department of Mechanical Engineering		32											
+	AffiliatedDept	Department of Media and Communication		33											
+	AffiliatedDept	Department of Neuroscience		34											
+	AffiliatedDept	Department of Physics		35											
+	AffiliatedDept	Department of Public and International Affairs		36											
+	AffiliatedDept	Department of Social and Behavioural Sciences		37											
+	AffiliatedDept	Department of Systems Engineering		38											
+	AffiliatedDept	Department of Veterinary Clinical Sciences		39											
+	AffiliatedDept	Ability R&D Energy Research Centre		40											
+	AffiliatedDept	Advanced Intelligent Information Systems Research Centre		41											
+	AffiliatedDept	Architecture and Civil Engineering Research Centre		42											
+	AffiliatedDept	Biotechnology & Health Centre		43											
+	AffiliatedDept	Center for Advanced Nuclear Safety and Sustainable Development		44											
+	AffiliatedDept	Center for East Asian and Comparative Philosophy		45											
+	AffiliatedDept	Centre for Advanced Structural Materials		46											
+	AffiliatedDept	Centre for Animal Health and Welfare		47											
+	AffiliatedDept	Centre for Applied Computing and Interactive Media		48											
+	AffiliatedDept	Centre for Applied One Health Research and Policy Advice		49											
+	AffiliatedDept	Centre for Biosystems, Neuroscience, and Nanotechnology		50											
+	AffiliatedDept	Centre for Chinese and Comparative Law		51											
+	AffiliatedDept	Centre for Communication Research		52											
+	AffiliatedDept	Centre for Complexity and Complex Networks		53											
+	AffiliatedDept	Centre for Decentralized Trust Computing		54											
+	AffiliatedDept	Centre for Functional Photonics		55											
+	AffiliatedDept	Centre for Judicial Education and Research cum Identification of Hong Kong Law		56											
+	AffiliatedDept	Centre for Nature-Inspired Engineering		57											
+	AffiliatedDept	Centre for Neutron Scattering		58											
+	AffiliatedDept	Centre for Public Affairs and Law		59											
+	AffiliatedDept	Centre for Robotics and Automation		60											
+	AffiliatedDept	Centre for Smart Energy Conversion and Utilization Research		61											
+	AffiliatedDept	Centre of Super-Diamond and Advanced Films		62											
+	AffiliatedDept	Centre on Global Internet Finance		63											
+	AffiliatedDept	Chan Feng Men-ling Chan Shuk-lin Language Centre		64											
+	AffiliatedDept	Chengdu Research Institute		65											
+	AffiliatedDept	CityUHK Academy of Innovation		66											
+	AffiliatedDept	CityU Center on Neutron Scattering		67											
+	AffiliatedDept	CityU Research Centre on Optical Fibre Sensing and Communications		68											
+	AffiliatedDept	CoolThink@JC		69											
+	AffiliatedDept	Cultural Exchange Oasis		70											
+	AffiliatedDept	Dongguan Research Institute		71											
+	AffiliatedDept	Fintech and Business Analytics Centre		72											
+	AffiliatedDept	Futian-CityU Mangrove R&D Centre		73											
+	AffiliatedDept	Hong Kong Branch of National Precious Metals Material Engineering Research Center		74											
+	AffiliatedDept	Hong Kong Commercial and Maritime Law Centre		75											
+	AffiliatedDept	Hong Kong Institute for Advanced Study		76											
+	AffiliatedDept	Hong Kong Institute for Clean Energy		77											
+	AffiliatedDept	Hong Kong Institute for Data Science		78											
+	AffiliatedDept	Hong Kong Institute of AI for Science		79											
+	AffiliatedDept	Information and Communication Technology Centre		80											
+	AffiliatedDept	Institute for Materials Innovation		81											
+	AffiliatedDept	Institute of Digital Medicine		82											
+	AffiliatedDept	Institute of Global Governance and Innovation for a Shared Future (IGGI) 		83											
+	AffiliatedDept	Jockey Club Project IDEA		84											
+	AffiliatedDept	Joint Laboratory for Robotic Research		85											
+	AffiliatedDept	Joint Laboratory of Nano-organic Functional Materials and Devices		86											
+	AffiliatedDept	Joint Laboratory of Nanomaterials and Nanomechanics		87											
+	AffiliatedDept	Joint Laboratory on Neutron Scattering		88											
+	AffiliatedDept	KeySteps@JC Phase Two		89											
+	AffiliatedDept	Laboratory Animal Research Unit		90											
+	AffiliatedDept	Liu Bie Ju Centre for Mathematical Sciences		91											
+	AffiliatedDept	Low-Carbon and Climate Impact Research Centre		92											
+	AffiliatedDept	Multimedia Software Engineering Research Centre		93											
+	AffiliatedDept	Research Centre for Oceans and Human Health		94											
+	AffiliatedDept	Research Centre for Sustainable Hong Kong		95											
+	AffiliatedDept	Research Centre for Treatments of Brain Disorders		96											
+	AffiliatedDept	Research Centre on One-Belt-One-Road		97											
+	AffiliatedDept	Shenzhen Research Institute		98											
+	AffiliatedDept	State Key Laboratory of Marine Environmental Health (City University of Hong Kong)		99											
+	AffiliatedDept	State Key Laboratory of Terahertz and Millimeter Waves (City University of Hong Kong)		100											
+	AffiliatedDept	The Halliday Centre for Intelligent Applications of Language Studies		101											
+	AffiliatedDept	Tung Biomedical Sciences Centre		102											
+	AffiliatedDept	Urban Graduation Approach to Uplift Poor Households out of Poverty		103											
+	AffiliatedDept	USTC-CityU Joint Advanced Research Centre (Suzhou)		104											
+	AffiliatedDept	Global Engagement Office		105											
+	AffiliatedDept	Indra and Harry Banga Gallery		106											
+	AffiliatedDept	Office of the President		107											
+	AffiliatedDept	Office of the Provost		108											
+	AffiliatedDept	Office of the Vice-President (Academic Affairs)		109											
+	AffiliatedDept	Office of the Vice-President (Administration)		110											
+	AffiliatedDept	Office of the Vice-President (Community Engagement)		111											
+	AffiliatedDept	Office of the Vice-President (Mainland Strategy)		112											
+	AffiliatedDept	Office of the Vice-President (Research & Technology)		113											
+	AffiliatedDept	Office of the Vice-President (Research)		114											
+	AffiliatedDept	Office of the Vice-President (Student Affairs)		115											
+	AffiliatedDept	Office of the Vice-President (Talent and International Strategy)		116											
+	AffiliatedDept	Run Run Shaw Library		117											
+	AffiliatedDept	Talent and Education Development Office		118											
